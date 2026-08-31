@@ -1,5 +1,5 @@
 Adds various amounts of additions courtesy of the Critical Mix mod:
-- Animation Cancel,
+- Animation Cancel
 - Chain Attack Reaction Commands
 - Finishing Magic Buff
 - Item Auto Reload
