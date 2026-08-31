@@ -1,0 +1,31 @@
+title: "Critical Mix Additions"
+originalAuthor: "XendraDevs"
+description: >-
+ Adds various amounts of additions courtsey of the Crticial Mix mod:
+ Animation Cancel, Chain Attack Reaction Comands, Finishing Magic Buff,
+ Item Auto Reload, R2 Quick Items, and Spirit Link. 
+assets:
+- name: scripts/CMix_AnimCancel.lua
+  method: copy
+  source:
+  - name: scripts/CMix_AnimCancel.lua
+- name: scripts/CMix_ChainAttackReactionCommand.lua
+  method: copy
+  source:
+  - name: scripts/CMix_ChainAttackReactionCommand.lua
+- name: scripts/CMix_ChangeDifficulty.lua
+  method: copy
+  source:
+  - name: scripts/CMix_ChangeDifficulty.lua
+- name: scripts/CMix_ItemAutoReload.lua
+  method: copy
+  source:
+  - name: scripts/CMix_ItemAutoReload.lua
+- name: scripts/CMix_MagicHandler.lua
+  method: copy
+  source:
+  - name: scripts/CMix_MagicHandler.lua
+- name: scripts/CMix_QuickItem.lua
+  method: copy
+  source:
+  - name: scripts/CMix_QuickItem.lua
