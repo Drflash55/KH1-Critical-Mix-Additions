@@ -2,9 +2,6 @@ LUAGUI_NAME = "CMix_QuickItem"
 LUAGUI_AUTH = "Xendra"
 LUAGUI_DESC = "Press R2 to use items"
 
-
--- Final feature: Prevent usage when all item slots are empty
-
 local TBD = 0x0
 local soraPointer = 0x2537E48
 local attackCommand = 0x52890C
