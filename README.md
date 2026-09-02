@@ -8,6 +8,8 @@ Adds various amounts of additions courtesy of the Critical Mix mod:
 - and Spirit Link
 ##
 ### IMPORTANT:
+- This only works for the Steam v1.0.0.2 version of KH1FM. I don't have the Epic Game Store
+version to test, so I cannot verify that it works on there.
 - Kingdom Hearts 1: Final Mix has issues with certain cutscenes playing in the game that can
 cause the game to crash. Though I have done my best to mitigate the problems, KH1FM will still
 have a likely chance of crashing when transitioning back to Sora from a cutscene taking place in
