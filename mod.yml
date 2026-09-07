@@ -6,8 +6,9 @@ description: >-
  from Kingdom Hearts I: Critical Mix.
 
 
- Mods include: Animation Cancel, Chain Attack Reaction Comands, Finishing Magic Buff,
- Item Auto Reload, R2 Quick Items, and Spirit Link. 
+ Mods include: Animation Cancel, Chain Attack Reaction Comands,
+ Change Difficulty Mid-Game, Finishing Magic Buff, Item Auto Reload,
+ R2 Quick Items, and Spirit Link. 
 assets:
 - name: scripts/CMix_AnimCancel.lua
   method: copy
