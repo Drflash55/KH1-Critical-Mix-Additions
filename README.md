@@ -5,7 +5,7 @@ Adds various amounts of additions courtesy of the Critical Mix mod:
 - Finishing Magic Buff
 - Item Auto Reload
 - R2 Quick Items
-- and Spirit Link
+- Spirit Link
 ##
 ### IMPORTANT:
 - This only works for the Steam v1.0.0.2 version of KH1FM. I don't have the Epic Game Store
