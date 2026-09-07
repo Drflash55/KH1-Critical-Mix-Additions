@@ -2,6 +2,7 @@
 Adds various amounts of additions courtesy of the Critical Mix mod:
 - Animation Cancel
 - Chain Attack Reaction Commands
+- Change Difficulty Mid-Game
 - Finishing Magic Buff
 - Item Auto Reload
 - R2 Quick Items
