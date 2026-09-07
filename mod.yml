@@ -33,3 +33,7 @@ assets:
   method: copy
   source:
   - name: scripts/CMix_QuickItem.lua
+- name: scripts/CMix_SpiritLink.lua
+  method: copy
+  source:
+  - name: scripts/CMix_SpiritLink.lua
